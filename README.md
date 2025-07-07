@@ -1,1 +1,1 @@
-# hashjing-tokenid-test
+# hashjing-tokenid-testnet
